@@ -1,4 +1,4 @@
-- 👋 Hi, i'm Julio Fagundes, 23 years old and undergraduate in math at UFPR;
+- 👋 Hi!! I'm Julio Fagundes 23 years old and undergraduate in math by UFPR;
 - 👀 Studying NodeJS and optimization models;
 - 🌱 My goals for the next 4 mounths is to improve my skills on Front End using HTML, CSS, JS and NodeJS and be able to create usefull aplications;
 - :bowtie: Currently working as intern at TAO Treinamento e Desenvolvimento de Programas computacionais;
