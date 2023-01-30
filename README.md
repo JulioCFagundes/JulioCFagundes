@@ -1,6 +1,6 @@
 - 👋 Hi!! I'm Julio Fagundes 24 years old and undergraduate in math by UFPR;
-- 👀 Studying time series and client churning, focusing on data engeenering and statistical processes;
-- 🌱 My goals for the next 4 mounths is to improve my skills and learn more deeply about data engeenering and machine learning;
+- 👀 Studying time series and client churning, focusing on data engineering and statistical processes;
+- 🌱 My goals for the next 4 months is to improve my skills and learn more deeply about data engineering and machine learning;
 - 📫 How to reach me on linkedin: https://www.linkedin.com/in/julio-fagundes-841250171/;
 
 <!---
