@@ -1,4 +1,4 @@
-- 👋 Hi!! I'm Julio Fagundes 24 years old and undergraduate in math by UFPR;
+- 👋 Hi!! I'm Julio Fagundes 24 years old and undergraduate in math at UFPR;
 - 👀 Studying time series and client churning, focusing on data engineering and statistical processes;
 - 📫 How to reach me on linkedin: https://www.linkedin.com/in/julio-fagundes-841250171/;
 
